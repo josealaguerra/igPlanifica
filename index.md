@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## El problema
 
-You can use the [editor on GitHub](https://github.com/josealaguerra/igPlanifica/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Constantemente se tiene el problema en las iglesias pequeñas donde no hay muchos servidores (tambien llamados diaconos), que una persona tiene dos responsabilidades el mismo día y la misma hora.  Esto sucede porque dos calendarios de dos ministerios se traslapan y esto sucede porque no se tiene una herramienta que centralice los calendarios.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## La solución
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Crear una herramienta que permita centralizar los calendarios de los diferentes ministerios y que todos los involucrados puedan saaber con anticipación cuando se les traslapara una fecha, y que puedan escoger una fecha.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# **Ministerios**
+- Alabanza
+- Diaconado
+- Ministerio de niños
+- Predicación
+- Intercesión
 
-- Bulleted
-- List
+# **Grupos de Ministerios**
+- Alabanza #1
+- Alabanza #2
+- Alabanza #3
+- Diaconado #1
+- Diaconado #2
+- Diaconado #3
+- Ministerio de niños #1
+- Ministerio de niños #2
+- Ministerio de niños #3
+- Predicación #1
+- Predicación #2
+- Predicación #3
+- Intercesión #1
+- Intercesión #2
+- Intercesión #3
+- Intercesión #4
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+# **Personas**
+- Cada persona esta en al menos un grupo de ministerios
+- Cada grupo de ministerio tiene un dia y horario que estara sirviendo en el templo.
+
+
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Soporte o Contacto
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/josealaguerra/igPlanifica/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Tienes problemas con la aplicación igPlanifica? Envia un correo o un tweet..
